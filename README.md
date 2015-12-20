@@ -1,7 +1,7 @@
 # bag-of-words
 ![alt text](docs/images/bog.png)
 Python Implementation of Bag of Words for Image Recognition using OpenCV and
-sklearn | [Video](https://www.youtube.com/watch?v=Ba_4wOpbJJM)
+sklearn | [Video](https://youtu.be/cyIdQp2X_Ic)
 
 ## Training the classifier
 ```
